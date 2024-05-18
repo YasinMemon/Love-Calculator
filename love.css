@@ -1,0 +1,27 @@
+*{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    background-color: yellow;
+    color: white;
+}
+input{
+    background-color: white;
+    border: none;
+    color: black;
+    font: bold;
+    outline: none;
+    font-size: 1rem;
+    padding: 0.3rem 2rem;
+}
+button{
+    background-color: aqua;
+    border: 1px solid black;
+    font-size: 1rem;
+    padding: 0.3rem 2rem;
+    cursor: pointer;
+}
+p{
+    font-weight: bold;
+    color: black;
+}
